@@ -60,4 +60,4 @@ The model's performance can be evaluated based on its accuracy on the validation
 
 ## License
 
-This project is open-sourced under the MIT license.
+This project is open sourced under the MIT license.
